@@ -1,0 +1,1 @@
+export default SERVER_ACCESS = "http://192.168.18.179:5000/api/v1"
